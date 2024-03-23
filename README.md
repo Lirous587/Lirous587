@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Golang**,**TypeScript**,**Vue**...
 - 💞️ I’m looking to collaborate on **Microsoft**.
 - 📫 How to reach me:**QQ** : **2115883273**,**WeChat** : **lzh2115883273** and welcome to my [Blog](http://www.liuzihao.online) (**Will become better**)
-- 😄 Pronouns: Fuck you.
+- 😄 Pronouns: **him**.
 - ⚡ Fun fact: Not yet.
 - 🍉 I like looking at beautiful women，like this
 ![beautiful women](http://liuzihao.online:8080/img/9.jpg)
