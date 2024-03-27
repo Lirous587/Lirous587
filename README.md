@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liuzihao520.My screen name is a **Lijingwoquan**.
+- 👋 Hi, I’m @Lijingwoquan.My screen name is a **Lijingwoquan**.
 - 👀 I’m interested in **nature**,**exercise**,**delicious** **food** and **coding**.
 - 🌱 I’m currently learning **Golang**,**TypeScript**,**Vue**,**Uiappx**...
 - 💞️ I’m looking to collaborate on **Microsoft**.
