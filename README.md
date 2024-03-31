@@ -5,11 +5,10 @@
 - 📫 How to reach me:**QQ** : **2115883273**,**WeChat** : **lzh2115883273** and welcome to my [Blog](http://liuzihao.online) (**Will become better**)
 - 😄 Pronouns: **him**.
 - ⚡ Fun fact: Not yet.
-- 🍉 I like looking at beautiful women，like this
-![beautiful women](http://liuzihao.online:8080/img/9.jpg)
-![beautiful women](http://liuzihao.online:8080/img/11.jpg)
-- 🍇 I'm looking for the love of my life, **waiting for me!**
-<!---
-liuzihao520/liuzihao520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijingwoquan&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lijingwoquan&show_icons=true&theme=tokyonight&card_width=450)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lijingwoquan&theme=navy-gear&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijingwoquan&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
