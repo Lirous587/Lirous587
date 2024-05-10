@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lijingwoquan.My screen name is a **Lijingwoquan**.
+- 👋 Hi, I’m @Lijingwoquan.My screen name is  **Lijingwoquan**.
 - 👀 I’m interested in **nature**,**exercise**,**delicious** **food** and **coding**.
 - 🌱 I’m currently learning **Golang**,**TypeScript**,**Vue**.
-- 💞️ I’m looking to collaborate on **Microsoft**.
+- 💞️ I’m looking to collaborate with **Microsoft**.
 - 📫 How to reach me:**QQ** : **2115883273**,**WeChat** : **lzh2115883273** and welcome to my [Blog](http://liuzihao.online) (**Will become better**)
 - 😄 Pronouns: **him**.
 - ⚡ Fun fact: Not yet.
