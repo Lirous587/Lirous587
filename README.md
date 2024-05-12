@@ -2,7 +2,7 @@
 - 👀 I’m interested in **nature**,**exercise**,**delicious** **food** and **coding**.
 - 🌱 I’m currently learning **Golang**,**TypeScript**,**Vue**.
 - 💞️ I’m looking to collaborate with **Microsoft**.
-- 📫 How to reach me:**QQ** : **2115883273**,**WeChat** : **lzh2115883273** and welcome to my [Blog](http://liuzihao.online) (**Will become better**)
+- 📫 How to reach me:**QQ** : **2115883273**,**WeChat** : **lzh2115883273**.
 - 😄 Pronouns: **him**.
 - ⚡ Fun fact: Not yet.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lijingwoquan&card_width=1200)](https://github.com/anuraghazra/github-readme-stats)
