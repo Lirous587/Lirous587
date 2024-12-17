@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICSTOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           retries: 3
           retries_delay: 300
 
